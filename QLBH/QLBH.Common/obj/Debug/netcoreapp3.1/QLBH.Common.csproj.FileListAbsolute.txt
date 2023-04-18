@@ -1,0 +1,26 @@
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.deps.json
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\BtlLtCsdl\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.AssemblyReference.cache
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.deps.json
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.json
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.dev.json
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.AssemblyReference.cache
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfoInputs.cache
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfo.cs
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\Nguyen Vu\Downloads\QLBH_Final_1\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.genruntimeconfig.cache
